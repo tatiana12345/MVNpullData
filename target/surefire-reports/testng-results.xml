@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Pull credentials from excel file" duration-ms="38992" started-at="2017-08-03T17:16:18Z" finished-at="2017-08-03T17:16:57Z">
+  <suite name="Pull credentials from excel file" duration-ms="32598" started-at="2017-08-03T20:01:54Z" finished-at="2017-08-03T20:02:27Z">
     <groups>
     </groups>
-    <test name="Using excel sheet" duration-ms="38992" started-at="2017-08-03T17:16:18Z" finished-at="2017-08-03T17:16:57Z">
+    <test name="Using excel sheet" duration-ms="32598" started-at="2017-08-03T20:01:54Z" finished-at="2017-08-03T20:02:27Z">
       <class name="com.excel.pullData.UsingExele">
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.excel.pullData.UsingExele@47f6473]" name="beforeClass" is-config="true" duration-ms="22168" started-at="2017-08-03T13:16:18Z" finished-at="2017-08-03T13:16:41Z">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.excel.pullData.UsingExele@47f6473]" name="beforeClass" is-config="true" duration-ms="17241" started-at="2017-08-03T16:01:54Z" finished-at="2017-08-03T16:02:11Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="testUsingExcel(java.lang.String, java.lang.String)[pri:0, instance:com.excel.pullData.UsingExele@47f6473]" name="testUsingExcel" duration-ms="7307" started-at="2017-08-03T13:16:41Z" data-provider="loginData" finished-at="2017-08-03T13:16:48Z">
+        <test-method status="PASS" signature="testUsingExcel(java.lang.String, java.lang.String)[pri:0, instance:com.excel.pullData.UsingExele@47f6473]" name="testUsingExcel" duration-ms="5935" started-at="2017-08-03T16:02:11Z" data-provider="loginData" finished-at="2017-08-03T16:02:17Z">
           <params>
             <param index="0">
               <value>
@@ -27,7 +27,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testUsingExcel -->
-        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.excel.pullData.UsingExele@47f6473]" name="tearDown" is-config="true" duration-ms="1" started-at="2017-08-03T13:16:48Z" finished-at="2017-08-03T13:16:48Z">
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.excel.pullData.UsingExele@47f6473]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-08-03T16:02:17Z" finished-at="2017-08-03T16:02:17Z">
           <params>
             <param index="0">
               <value>
@@ -38,7 +38,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="testUsingExcel(java.lang.String, java.lang.String)[pri:0, instance:com.excel.pullData.UsingExele@47f6473]" name="testUsingExcel" duration-ms="6777" started-at="2017-08-03T13:16:48Z" data-provider="loginData" finished-at="2017-08-03T13:16:55Z">
+        <test-method status="PASS" signature="testUsingExcel(java.lang.String, java.lang.String)[pri:0, instance:com.excel.pullData.UsingExele@47f6473]" name="testUsingExcel" duration-ms="6829" started-at="2017-08-03T16:02:17Z" data-provider="loginData" finished-at="2017-08-03T16:02:24Z">
           <params>
             <param index="0">
               <value>
@@ -54,7 +54,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testUsingExcel -->
-        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.excel.pullData.UsingExele@47f6473]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-08-03T13:16:55Z" finished-at="2017-08-03T13:16:55Z">
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.excel.pullData.UsingExele@47f6473]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-08-03T16:02:24Z" finished-at="2017-08-03T16:02:24Z">
           <params>
             <param index="0">
               <value>
@@ -65,7 +65,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.excel.pullData.UsingExele@47f6473]" name="afterClass" is-config="true" duration-ms="2673" started-at="2017-08-03T13:16:55Z" finished-at="2017-08-03T13:16:57Z">
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.excel.pullData.UsingExele@47f6473]" name="afterClass" is-config="true" duration-ms="2567" started-at="2017-08-03T16:02:24Z" finished-at="2017-08-03T16:02:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
