@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Pull credentials from excel file">
+	<test name="Using excel sheet">
+		<classes>
+			<class name="com.excel.pullData.UsingExele"></class>
+		</classes>
+	</test>
+</suite>
